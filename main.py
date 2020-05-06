@@ -24,7 +24,6 @@ def main():
 
         game.handle(keys)
         pygame.time.wait(100)
-        
 
 
 if __name__ == '__main__':
